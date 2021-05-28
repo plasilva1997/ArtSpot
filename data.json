@@ -1,0 +1,28 @@
+{
+  "art": [
+    {
+      "name": "L'home du mur",
+      "note": 4,
+      "image": "https://lemag.ales.fr/wp-content/uploads/2019/03/atelier-street-art-1280x720.jpg",
+      "adresse": "Rue à Paris",
+      "createdAt": "2021-05-28T14:43:05.754Z",
+      "id": 1
+    },
+    {
+      "name": "L'histoire Colorée d'une ville",
+      "note": 5,
+      "image": "https://www.jeparsauxusa.com/wp-content/uploads/2018/11/Vivian-Maier-mural.jpg",
+      "adresse": "Chicago",
+      "createdAt": "2021-05-28T14:56:30.193Z",
+      "id": 2
+    },
+    {
+      "name": "Le tunel qui aime me suivre",
+      "note": 5,
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/15/01/48/75/leake-street-tunnel.jpg",
+      "adresse": "Londre",
+      "createdAt": "2021-05-28T15:08:03.936Z",
+      "id": 3
+    }
+  ]
+}

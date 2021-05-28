@@ -1,0 +1,15 @@
+<ion-content>
+  <ion-card *ngFor="let arts of art" [routerLink]="'/detail/' + arts.id">
+    <img [src]="arts.image" [alt]="arts.name">
+    <ion-card-header>
+      <ion-card-title>
+        {{ arts.name }}
+      </ion-card-title>
+      <p>{{arts.adresse}}</p>
+      <p>Note: {{arts.note}} / 5</p>
+    </ion-card-header>
+
+
+  </ion-card>
+
+</ion-content>
